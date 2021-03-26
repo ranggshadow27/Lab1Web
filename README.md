@@ -41,9 +41,9 @@ error ketika terjadi kesalahan penulisan tag?</b>
   
 <p><b>3. Apa perbedaan atribut title dan alt pada tag <code>img</code>, berikan penjelasannya!</b>
   <br>
-  title berfungsi untuk memberi gambar nama saat kursor mouse ada pada gambar.
+  <code>title</code> berfungsi untuk memberi gambar nama saat kursor mouse ada pada gambar.
   <br>
-  sedangkan alt berfungsi untuk memberi gambar saat gambar tersebut tidak terbaca.
+  sedangkan <code>alt</code> berfungsi untuk memberi gambar saat gambar tersebut tidak terbaca.
   </p>
 
 <p><b>4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
