@@ -1,5 +1,6 @@
 # Lab1Web
 Pemograman Web Semester 4
+Rangga Tito Prayogo - 311910036 - TI 19 B1
 
 <p><b>Menambahkan title</b><br>
 <img src = 'https://user-images.githubusercontent.com/46300525/112613731-fd1e0e80-8e52-11eb-9427-a320cc059f08.png'>
@@ -55,8 +56,8 @@ error ketika terjadi kesalahan penulisan tag?</b>
   <ul>
     <li> <i>_blank</i> berfungsi untuk membuka link/target pada tab baru</li>
     <li> <i>_self</i> berfungsi untuk menampilkan dokumen/link pada tab yang sama</li>
-    <li> <i>_top</i> berfungsi untuk menampilkan dokumen/link di bagian paling atas pada frameset </li>
-    <li> <i>_parent</i> berfungsi untuk menampilkan dokumen/link satu bagian atas pada frameset </li>
+    <li> <i>_top</i> berfungsi untuk menampilkan dokumen/link pada frame paling atas pada frameset </li>
+    <li> <i>_parent</i> berfungsi untuk menampilkan dokumen/link naik satu frame pada frameset </li>
   </ul>
   
   <br>
