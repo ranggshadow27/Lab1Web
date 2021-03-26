@@ -2,7 +2,7 @@
 Pemograman Web Semester 4
 Rangga Tito Prayogo - 311910036 - TI 19 B1
 
-<h2 align = 'center'> Praktikum 1 <h2>
+<h2 align = 'center'> Praktikum 1 </h2>
 
 <p><b>Menambahkan title</b><br>
 <img src = 'https://user-images.githubusercontent.com/46300525/112613731-fd1e0e80-8e52-11eb-9427-a320cc059f08.png'>
